@@ -1,0 +1,88 @@
+/* COLOR PALLET
+ * Dark blue   | #244855
+ * Bright red  | #E64833
+ * Brown       | #874F41
+ * Light blue  | #90AED
+ * Light cream | #FBE9D0
+ */
+
+body{
+	background-color: #244855;
+	color: #FBE9D0;
+
+	font-size: 20px;
+
+	margin: 0px;
+	padding: 0px;
+}
+
+.topBar{
+	background-color: #E64833;
+
+	height: 75px;
+
+	text-align: center;
+
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h1{
+	text-align: center;
+}
+
+.mainContent{
+	margin-right: auto;
+	margin-left: auto;
+
+	width: 80%;
+}
+
+table{ margin-right: auto;
+	margin-left: auto;
+}
+
+table, th, td{
+	border: 3px solid;
+	border-collapse: collapse;
+
+	padding: 10px;
+
+	text-align: center;
+}
+
+#salutingTheFlag{
+	height: 256px;
+	width: 386px;
+}
+
+#roadmap{
+	height: 276px;
+	width: 393px;
+}
+
+#firstProgrammingClass{
+	height: 253px;
+	width: 379px;
+}
+
+#secondProgrammingClass{
+	height: 253px;
+	width: 372px;
+}
+
+#philmontCamp{
+	height: 290px;
+	width: 387px;
+}
+
+.bottomBar{
+	background-color: #E64833;
+
+	margin-top: 35px;
+
+	font-size: 16px;
+	font-weight: bold;
+
+	text-align: left;
+}
