@@ -1,0 +1,17 @@
+<li>
+	7/15/24
+	<br>
+	Troop meeting
+</li>
+
+<li>
+	7/22/24
+	<br>
+	Troop meeting
+</li>
+
+<li>
+	7/29/24
+	<br>
+	Campout at Groves Pond
+</li>
