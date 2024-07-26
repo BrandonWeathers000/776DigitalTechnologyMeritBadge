@@ -31,7 +31,7 @@ These are the requirements that I have chosen to cover.
 
 7. Do the following:
     7a. Explain to your conselor each of these protections and why they exist: copyright, patents, trademarks, trade secrets.
-    7b. Explain when it is permissible to accept a fre copy of a program from a friend.
+    7b. Explain when it is permissible to accept a free copy of a program from a friend.
     7c. Discuss with your conselor an article of a report on the internet about a recent legal case inolving an intellectual property dispute.
 
 8. Do the following:
