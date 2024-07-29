@@ -30,3 +30,6 @@ NOT UP TO DATE LIST OF SOURCES USED FOR SLIDE SHOW
 - https://e-stewards.org/certification-steps-to-certification/
 - https://e-stewards.org/the-e-stewards-standard/
 - https://sustainableelectronics.org/key-steps-in-the-certification-process/r2-license-application/
+- https://www.cloudflare.com/learning/network-layer/what-is-a-wan/
+- https://en.wikipedia.org/wiki/Apple_Inc._v._Samsung_Electronics_Co.#cite_note-:1-12
+- https://www.faa.gov/newsroom/be-atc-be-air-traffic-controller-apply-now
