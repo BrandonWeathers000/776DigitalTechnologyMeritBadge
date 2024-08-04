@@ -4,8 +4,8 @@ This is suplementary content for the Digital Technology merit badge tailored for
 Please click on the links below for suplementary material for requirements 6g and 6h of the merit badge.
 
 There will be a comment at the top of each file telling you how to do each assignment.
-- [Material for 6g](http://tpcg.io/_KIU4ND)
-- [Material for 6h](http://tpcg.io/_KIU4ND)
+- Scout Blog [Material for 6g](http://tpcg.io/_XI2ZFI)
+- Scout Webpage [Material for 6h](http://tpcg.io/_OUJLLA)
 
 ## Steps To Submit Work
 1. Save the assignment by clicking the "Share" button (near the top left corner).
