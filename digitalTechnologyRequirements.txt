@@ -26,7 +26,7 @@ Digital Technology Merit Badge Requirements
 	c. Use a web browser to connect to an HTTPS website (with a parent or guardian's permission)
 
 6. Do the following:
-	d. Using a presentation software program, develop a report about a topic approved by your conselor. For your presentation, create at least five slides, with each one incorporating text and some type of visual such as a photograph or an illustration.
+	a. Using a spreadsheet or database program, develop a food budget for a patrol weekend campout.
 	g. Create a blog and use it as on online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your conselor.
 	h. Create a webpage for your troop. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience.
 
