@@ -1,22 +1,31 @@
 # 776 Digital Technology Merit Badge
 This is suplementary content for the Digital Technology merit badge tailored for scouts of BSA Troop 776 Simpsonville, South Carolina.
 
-Please click on the links below for suplementary material for requirements 6g and 6h of the merit badge.
-
-There will be a comment at the top of each file telling you how to do each assignment.
-- Scout Blog [Material for 6g](http://tpcg.io/_XI2ZFI)
-- Scout Webpage [Material for 6h](http://tpcg.io/_OUJLLA)
-
-## Steps To Submit Work
-1. Save the assignment by clicking the "Share" button (near the top left corner).
-2. Do the captcha.
-3. Copy the link that appears.
-4. Email your parents and myself in the **same** emal.
-
 ```
 My email is: brandon.r.weathers@gmail.com
 Feel free to email me any questions.
 ```
+
+## Requirement 6a
+Create a spreadsheet of your own that models a hypothetical weekend campout.
+Please email me and your parents your results.
+
+Below is a link to an spreadsheet that was used in the second class.
+Your spreadsheet will look something like this.
+- https://docs.google.com/spreadsheets/d/1iP7tdr8MGud-MwFGeiEp-odh8flXQ916rgsfXAvRYi4/edit?usp=sharing
+
+Feel free to email me and your parents any questions.
+
+## Requirement 6g and 6h
+There will be a comment at the top of each file telling you how to do each assignment.
+- Scout Blog [Material for 6g](http://tpcg.io/_XI2ZFI)
+- Scout Webpage [Material for 6h](http://tpcg.io/_OUJLLA)
+
+### How to Steps To Submit Work
+1. Save the assignment by clicking the "Share" button (near the top left corner).
+2. Do the captcha.
+3. Copy the link that appears.
+4. Email your parents and myself in the **same** emal.
 
 *If you wish to restart due to deleation of critial code. Please click the link again and it should lead to the originial code.*
 
